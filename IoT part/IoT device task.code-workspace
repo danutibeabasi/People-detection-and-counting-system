@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "serial:/COM5",
+			"uri": "serial://com5/"
+		},
+		{
+			"name": "IoT device task",
+			"path": "../../../../All sprint of CPS2 integration/IoT device task"
+		}
+	],
+	"settings": {
+		"python.languageServer": "Pylance",
+		"circuitpython.board.version": null,
+		"python.linting.pylintEnabled": false,
+		"python.analysis.diagnosticSeverityOverrides": {
+			"reportMissingModuleSource": "none"
+		},
+		"python.analysis.extraPaths": [
+			"",
+			"c:\\Users\\tareq\\.vscode\\extensions\\joedevivo.vscode-circuitpython-0.1.20-win32-x64\\stubs",
+			"c:\\Users\\tareq\\AppData\\Roaming\\Code\\User\\globalStorage\\joedevivo.vscode-circuitpython\\bundle\\20230315\\adafruit-circuitpython-bundle-py-20230315\\lib"
+		]
+	}
+}

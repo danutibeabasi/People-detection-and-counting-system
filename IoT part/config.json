@@ -1,0 +1,7 @@
+{
+    "short_name": "212",
+    "mqtt_server": "193.49.165.40:1883",
+    "credentials": {
+        "iot": "iOT181219"
+    }
+}
